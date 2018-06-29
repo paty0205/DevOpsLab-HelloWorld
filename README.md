@@ -1,7 +1,7 @@
 # Trilha DevOps da 4Linux
 
 <!-- Altere a Flag abaixo com sua URL do Travis -->
-[![Build Status](https://travis-ci.org/paty0205/Firt-Project.svg?branch=master)](https://travis-ci.org/paty0205/Firt-Project)
+https://travis-ci.org/paty0205/DevOpsLab-HelloWorld.svg?branch=master
 
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
